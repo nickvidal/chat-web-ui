@@ -1,3 +1,3 @@
-# Chat Web
+# Chat Web UI
 
-Web interface for a chat client.
+Web user interface for a chat client.
